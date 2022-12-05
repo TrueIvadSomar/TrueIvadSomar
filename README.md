@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <a href="https://www.linkedin.com/in/davi-souza-ramos/" target="_blank" rel="noreferrer"><img src=https://media-exp1.licdn.com/dms/image/C4D16AQGwXFvxZejP6Q/profile-displaybackgroundimage-shrink_350_1400/0/1661616460287?e=1666828800&v=beta&t=2rCec3Mmvp62r0irjxLV3btgLrs-iaHY7yfQcrMyjHQ alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/davi-souza-ramos/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/TrueIvadSomar/TrueIvadSomar/main/.github/workflows/3.png alt="my banner"></a>
 </p>
 <img align="center" alt="TrueIvadSomar-msqlserver"  src="https://komarev.com/ghpvc/?username=TrueIvadSomar&style=flat-square">
 <div align="center">
