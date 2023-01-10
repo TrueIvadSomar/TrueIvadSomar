@@ -30,7 +30,8 @@
   <img height = "70cm" align="center" alt="TrueIvadSomar-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-csharp"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-mySql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img height = "70cm" align="center" alt="TrueIvadSomar-sqlServer"                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserverplain-wordmark.svg">
+  <img height = "70cm" align="center" alt="TrueIvadSomar-sqlServer"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+                    
   
   
   <img height = "70cm" align="right" alt="Davi-pic" height="165" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/kRRJeEpqicHHFKWTvKtTcChw699W9Wn8LZvhAxhptps/https/i.pinimg.com/564x/28/f6/2e/28f62e1d6a2bde1e6ac0ae86b7d008df.jpg?width=559&height=559">
