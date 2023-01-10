@@ -33,7 +33,7 @@
   <img height = "70cm" align="center" alt="TrueIvadSomar-dotNetCore"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-nodeJS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-mySql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img height = "70cm" align="center" alt="TrueIvadSomar-sqlServer"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img height = "70cm" align="center" alt="TrueIvadSomar-sqlServer"  src="https://img.icons8.com/color/48/null/microsoft-sql-server.png">
                     
 </div>
 <br>
