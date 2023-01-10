@@ -38,9 +38,7 @@
  <img src="https://github-profile-trophy.vercel.app/?username=TrueIvadSomar&theme=nord&column=7" >
  
 <h2>🛡️ Badges</h2>
-<div align="center">
- 
-</div>
+
 
 
 ![Snake animation](https://github.com/TrueIvadSomar/TrueIvadSomar/blob/output/github-contribution-grid-snake.svg)
