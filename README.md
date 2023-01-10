@@ -32,12 +32,15 @@
   <img height = "70cm" align="center" alt="TrueIvadSomar-mySql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-sqlServer"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
                     
-  
-  
-  <img height = "70cm" align="right" alt="Davi-pic" height="165" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/kRRJeEpqicHHFKWTvKtTcChw699W9Wn8LZvhAxhptps/https/i.pinimg.com/564x/28/f6/2e/28f62e1d6a2bde1e6ac0ae86b7d008df.jpg?width=559&height=559">
 </div>
 <br>
  <h2>🏆 GitHub Trophies</h2>
  <img src="https://github-profile-trophy.vercel.app/?username=TrueIvadSomar&theme=nord&column=7" >
+ 
+<h2>🛡️ Badges</h2>
+<div align="center">
+ 
+</div>
+
 
 ![Snake animation](https://github.com/TrueIvadSomar/TrueIvadSomar/blob/output/github-contribution-grid-snake.svg)
