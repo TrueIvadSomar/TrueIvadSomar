@@ -42,7 +42,7 @@
  <img src="https://user-images.githubusercontent.com/76605149/211633462-559d4e83-4b7e-4fd8-8056-6e0c137daa00.png" width="200px"/>
  </div>
 
-<h2>🎯 Registro de atividades 😉</h2>
+
  ![Snake animation](https://github.com/TrueIvadSomar/TrueIvadSomar/blob/output/github-contribution-grid-snake.svg)
 
 
