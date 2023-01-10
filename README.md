@@ -29,6 +29,7 @@
   <img height = "70cm" align="center" alt="TrueIvadSomar-JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-csharp"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img height = "70cm" align="center" alt="TrueIvadSomar-dotNetCore"  src="<img height = "70cm" align="center" alt="TrueIvadSomar-csharp      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">">
   <img height = "70cm" align="center" alt="TrueIvadSomar-mySql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img height = "70cm" align="center" alt="TrueIvadSomar-sqlServer"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
                     
